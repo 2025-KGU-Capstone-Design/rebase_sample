@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          3번 브랜치 <code>src/App.tsx</code> and save to reload.
+          4번 브랜치 <code>src/App.tsx</code> and save to reload.
         </p>
         <a
           className="App-link"
